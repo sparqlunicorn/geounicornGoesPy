@@ -1,0 +1,605 @@
+<http://atlantgis.squirrel.link/ar_site#122> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#122> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#122_geom> .
+<http://atlantgis.squirrel.link/ar_site#122_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#122_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4767643200000100 35.5408787800013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#1> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#1> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#1_geom> .
+<http://atlantgis.squirrel.link/ar_site#1_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#1_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5454243600000160 35.7001474000013560))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#41> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#41> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#41_geom> .
+<http://atlantgis.squirrel.link/ar_site#41_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#41_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5762338300000200 35.5357113400013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#13> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#13> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#13_geom> .
+<http://atlantgis.squirrel.link/ar_site#13_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#13_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5022034800000150 35.5353747300013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#58> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#58> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#58_geom> .
+<http://atlantgis.squirrel.link/ar_site#58_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#58_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4825921600000120 35.4982791300012900))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#23> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#23> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#23_geom> .
+<http://atlantgis.squirrel.link/ar_site#23_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#23_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4612319800000120 35.4979646400013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#54> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#54> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#54_geom> .
+<http://atlantgis.squirrel.link/ar_site#54_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#54_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3894227200000000 35.4998806100012900))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#71> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#71> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#71_geom> .
+<http://atlantgis.squirrel.link/ar_site#71_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#71_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3654387700000000 35.5177490100013000))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#45> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#45> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#45_geom> .
+<http://atlantgis.squirrel.link/ar_site#45_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#45_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2373031900000000 35.5810871300013150))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#48> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#48> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#48_geom> .
+<http://atlantgis.squirrel.link/ar_site#48_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#48_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4640708200000000 35.7189038200013660))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#87> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#87> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#87_geom> .
+<http://atlantgis.squirrel.link/ar_site#87_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#87_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.7079004100000380 35.6028031200013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#5> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#5> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#5_geom> .
+<http://atlantgis.squirrel.link/ar_site#5_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#5_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9314975700000000 35.6404227000013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#89> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#89> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#89_geom> .
+<http://atlantgis.squirrel.link/ar_site#89_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#89_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4274016100000110 35.5131785500013140))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#106> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#106> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#106_geom> .
+<http://atlantgis.squirrel.link/ar_site#106_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#106_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2317573300000000 35.4884761100013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#15> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#15> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#15_geom> .
+<http://atlantgis.squirrel.link/ar_site#15_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#15_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3825946200000000 35.5253673600013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#73> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#73> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#73_geom> .
+<http://atlantgis.squirrel.link/ar_site#73_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#73_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5615019000000140 35.6004192500013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#114> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#114> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#114> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#114_geom> .
+<http://atlantgis.squirrel.link/ar_site#114_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#114_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5570016800000150 35.6384666400013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#120> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#120> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#120_geom> .
+<http://atlantgis.squirrel.link/ar_site#120_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#120_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0150332000000000 35.5329378100013140))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#119> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#119> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#119_geom> .
+<http://atlantgis.squirrel.link/ar_site#119_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#119_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1366989900000000 35.5691345100013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#101> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#101> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#101_geom> .
+<http://atlantgis.squirrel.link/ar_site#101_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#101_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.7970916400000000 35.5018272200013000))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#67> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#67> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#67_geom> .
+<http://atlantgis.squirrel.link/ar_site#67_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#67_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.6985172700000000 35.6070737700013350))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#95> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#95> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#95_geom> .
+<http://atlantgis.squirrel.link/ar_site#95_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#95_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2911187200000000 35.4113092200012640))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#75> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#75> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#75_geom> .
+<http://atlantgis.squirrel.link/ar_site#75_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#75_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9652003700000000 35.4921806600012960))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#55> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#55> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#55_geom> .
+<http://atlantgis.squirrel.link/ar_site#55_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#55_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2672239500000000 35.4126510700012740))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#118> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#118> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#118_geom> .
+<http://atlantgis.squirrel.link/ar_site#118_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#118_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.6565872200000000 35.6496851900013500))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#44> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#44> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#44_geom> .
+<http://atlantgis.squirrel.link/ar_site#44_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#44_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3233568000000000 35.4744812000012860))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#29> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#29> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#29_geom> .
+<http://atlantgis.squirrel.link/ar_site#29_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#29_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9961956200000000 35.4491778400013000))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#52> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#52> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#52_geom> .
+<http://atlantgis.squirrel.link/ar_site#52_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#52_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5847523800000170 35.6796140000013600))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#30> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#30> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#30_geom> .
+<http://atlantgis.squirrel.link/ar_site#30_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#30_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4341535800000110 35.6805503600013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#17> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#17> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#17_geom> .
+<http://atlantgis.squirrel.link/ar_site#17_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#17_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3048259300000000 35.5037219600013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#56> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#56> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#56_geom> .
+<http://atlantgis.squirrel.link/ar_site#56_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#56_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2432757000000000 35.5383948700013050))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#97> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#97> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#97_geom> .
+<http://atlantgis.squirrel.link/ar_site#97_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#97_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4698487800000140 35.6551111400013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#64> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#64> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#64_geom> .
+<http://atlantgis.squirrel.link/ar_site#64_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#64_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.5629037800000000 35.6028661000013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#91> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#91> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#91_geom> .
+<http://atlantgis.squirrel.link/ar_site#91_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#91_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.7687271000000000 35.6374938300013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#14> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#14> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#14_geom> .
+<http://atlantgis.squirrel.link/ar_site#14_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#14_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9325831800000000 35.5708641900013160))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#96> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#96> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#96_geom> .
+<http://atlantgis.squirrel.link/ar_site#96_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#96_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8833198300000000 35.5518213000013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#9> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#9> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#9_geom> .
+<http://atlantgis.squirrel.link/ar_site#9_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#9_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3539892800000000 35.4578080500012900))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#42> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#42> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#42_geom> .
+<http://atlantgis.squirrel.link/ar_site#42_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#42_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3177274400000000 35.5497048300013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#11> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#11> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#11_geom> .
+<http://atlantgis.squirrel.link/ar_site#11_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#11_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1797810300000000 35.4194829200012700))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#7> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#7> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#7_geom> .
+<http://atlantgis.squirrel.link/ar_site#7_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#7_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3467329600000000 35.5579409100013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#40> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#40> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#40_geom> .
+<http://atlantgis.squirrel.link/ar_site#40_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#40_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0048837100000000 35.5692718400013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#60> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#60> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#60_geom> .
+<http://atlantgis.squirrel.link/ar_site#60_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#60_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4749590800000120 35.7679887600013660))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#102> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#102> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#102> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#102_geom> .
+<http://atlantgis.squirrel.link/ar_site#102_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#102_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3218593000000000 35.6959666700013540))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#12> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#12> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#12_geom> .
+<http://atlantgis.squirrel.link/ar_site#12_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#12_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4444176500000000 35.5734878000013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#35> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#35> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#35_geom> .
+<http://atlantgis.squirrel.link/ar_site#35_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#35_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9167671800000000 35.5438240500013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#72> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#72> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#72_geom> .
+<http://atlantgis.squirrel.link/ar_site#72_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#72_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4785079300000130 35.7291251300013640))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#62> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#62> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#62_geom> .
+<http://atlantgis.squirrel.link/ar_site#62_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#62_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4464822000000000 35.5234102700013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#27> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#27> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#27_geom> .
+<http://atlantgis.squirrel.link/ar_site#27_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#27_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5433208000000160 35.5705404700013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#85> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#85> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#85_geom> .
+<http://atlantgis.squirrel.link/ar_site#85_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#85_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0603801800000000 35.4873915100012950))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#109> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#109> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#109_geom> .
+<http://atlantgis.squirrel.link/ar_site#109_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#109_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1621166900000000 35.4287519900012740))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#82> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#82> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#82_geom> .
+<http://atlantgis.squirrel.link/ar_site#82_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#82_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8406175300000000 35.6263382500013460))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#31> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#31> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#31_geom> .
+<http://atlantgis.squirrel.link/ar_site#31_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#31_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3683879800000000 35.7248423400013600))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#86> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#86> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#86_geom> .
+<http://atlantgis.squirrel.link/ar_site#86_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#86_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8113702000000000 35.6203069000013240))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#83> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#83> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#83_geom> .
+<http://atlantgis.squirrel.link/ar_site#83_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#83_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3049310200000000 35.5380702600013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#105> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#105> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#105_geom> .
+<http://atlantgis.squirrel.link/ar_site#105_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#105_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9691987800000000 35.5432706600013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#98> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#98> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#98_geom> .
+<http://atlantgis.squirrel.link/ar_site#98_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#98_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8758573900000000 35.6946636500013600))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#28> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#28> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#28_geom> .
+<http://atlantgis.squirrel.link/ar_site#28_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#28_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4573819300000110 35.4267536300012860))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#78> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#78> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#78_geom> .
+<http://atlantgis.squirrel.link/ar_site#78_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#78_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0195779200000000 35.4469567800013000))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#43> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#43> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#43_geom> .
+<http://atlantgis.squirrel.link/ar_site#43_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#43_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.7557030500000000 35.5243230100013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#4> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#4> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#4_geom> .
+<http://atlantgis.squirrel.link/ar_site#4_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#4_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3119484500000000 35.3719578500012800))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#46> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#46> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#46_geom> .
+<http://atlantgis.squirrel.link/ar_site#46_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#46_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0304641900000000 35.3965869600012800))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#99> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#99> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#99_geom> .
+<http://atlantgis.squirrel.link/ar_site#99_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#99_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1906040600000000 35.5484497700013050))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#92> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#92> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#92_geom> .
+<http://atlantgis.squirrel.link/ar_site#92_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#92_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4482719500000000 35.6775330000013540))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#39> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#39> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#39_geom> .
+<http://atlantgis.squirrel.link/ar_site#39_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#39_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.6838401700000320 35.6007661500013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#59> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#59> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#59_geom> .
+<http://atlantgis.squirrel.link/ar_site#59_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#59_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8777007400000000 35.4726428300013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#108> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#108> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#108> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#108_geom> .
+<http://atlantgis.squirrel.link/ar_site#108_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#108_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5107554100000120 35.4920730300013000))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#84> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#84> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#84_geom> .
+<http://atlantgis.squirrel.link/ar_site#84_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#84_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.7728296600000000 35.6832537600013600))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#37> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#37> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#37_geom> .
+<http://atlantgis.squirrel.link/ar_site#37_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#37_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2311098100000000 35.5167703200013140))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#34> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#34> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#34_geom> .
+<http://atlantgis.squirrel.link/ar_site#34_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#34_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2296227900000000 35.6267328900013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#117> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#117> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#117_geom> .
+<http://atlantgis.squirrel.link/ar_site#117_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#117_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3600897200000000 35.5443309200013000))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#47> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#47> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#47_geom> .
+<http://atlantgis.squirrel.link/ar_site#47_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#47_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4344811500000000 35.5998376000013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#36> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#36> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#36_geom> .
+<http://atlantgis.squirrel.link/ar_site#36_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#36_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2857651700000000 35.5415834400013040))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#8> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#8> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#8_geom> .
+<http://atlantgis.squirrel.link/ar_site#8_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#8_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3236855600000000 35.5834141500013250))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#38> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#38> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#38_geom> .
+<http://atlantgis.squirrel.link/ar_site#38_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#38_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2646479500000000 35.5861599400013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#65> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#65> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#65_geom> .
+<http://atlantgis.squirrel.link/ar_site#65_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#65_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8623495100000000 35.4835896000012800))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#110> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#110> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#110_geom> .
+<http://atlantgis.squirrel.link/ar_site#110_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#110_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0632176400000000 35.6418726000013350))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#51> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#51> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#51_geom> .
+<http://atlantgis.squirrel.link/ar_site#51_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#51_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.7462576600000000 35.6592096300013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#53> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#53> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#53_geom> .
+<http://atlantgis.squirrel.link/ar_site#53_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#53_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4810310500000150 35.5872310100013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#74> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#74> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#74_geom> .
+<http://atlantgis.squirrel.link/ar_site#74_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#74_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4583192700000000 35.4531418000012800))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#113> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#113> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#113_geom> .
+<http://atlantgis.squirrel.link/ar_site#113_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#113_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3587882500000000 35.6335981200013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#107> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#107> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#107_geom> .
+<http://atlantgis.squirrel.link/ar_site#107_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#107_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8468932100000000 35.6494540700013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#100> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#100> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#100_geom> .
+<http://atlantgis.squirrel.link/ar_site#100_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#100_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0567615800000000 35.4620077200012960))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#70> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#70> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#70_geom> .
+<http://atlantgis.squirrel.link/ar_site#70_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#70_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2334282600000000 35.3918352500012700))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#121> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#1> .
+<http://atlantgis.squirrel.link/ar_site#121> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#121> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#121_geom> .
+<http://atlantgis.squirrel.link/ar_site#121_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#121_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5271748500000180 35.7746408800013800))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#57> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#57> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#57_geom> .
+<http://atlantgis.squirrel.link/ar_site#57_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#57_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4710145900000000 35.6234603000013340))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#81> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#81> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#81_geom> .
+<http://atlantgis.squirrel.link/ar_site#81_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#81_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4308618300000100 35.4470777800013000))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#90> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#90> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#90_geom> .
+<http://atlantgis.squirrel.link/ar_site#90_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#90_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0593859300000000 35.5413228000013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#80> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#80> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#80_geom> .
+<http://atlantgis.squirrel.link/ar_site#80_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#80_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5172504300000130 35.6829633900013500))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#49> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#49> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#49_geom> .
+<http://atlantgis.squirrel.link/ar_site#49_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#49_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2008426700000000 35.5947162000013200))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#20> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#20> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#20_geom> .
+<http://atlantgis.squirrel.link/ar_site#20_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#20_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5663191400000190 35.6807163600013550))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#33> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#33> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#33_geom> .
+<http://atlantgis.squirrel.link/ar_site#33_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#33_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.5210546200000120 35.6875478100013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#21> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#21> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#21_geom> .
+<http://atlantgis.squirrel.link/ar_site#21_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#21_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4653137000000100 35.4889934000012900))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#69> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#69> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#69_geom> .
+<http://atlantgis.squirrel.link/ar_site#69_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#69_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8911988400000000 35.6682741100013500))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#93> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#93> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#93_geom> .
+<http://atlantgis.squirrel.link/ar_site#93_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#93_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3822064500000000 35.7427091900013700))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#94> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#94> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#94_geom> .
+<http://atlantgis.squirrel.link/ar_site#94_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#94_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2546163500000000 35.6306304400013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#77> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#77> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#77_geom> .
+<http://atlantgis.squirrel.link/ar_site#77_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#77_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4543380300000110 35.6918587500013500))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#3> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#3> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#3_geom> .
+<http://atlantgis.squirrel.link/ar_site#3_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#3_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0708104400000000 35.4623807400012900))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#115> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#115> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#115_geom> .
+<http://atlantgis.squirrel.link/ar_site#115_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#115_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0581836300000000 35.5689802900013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#76> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#76> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#76_geom> .
+<http://atlantgis.squirrel.link/ar_site#76_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#76_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9857547600000000 35.6594236000013540))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#6> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#6> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#6_geom> .
+<http://atlantgis.squirrel.link/ar_site#6_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#6_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.3355890100000000 35.7222205300013660))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#88> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#88> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#88_geom> .
+<http://atlantgis.squirrel.link/ar_site#88_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#88_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.6834851100000000 35.5550780600013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#112> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#112> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#112_geom> .
+<http://atlantgis.squirrel.link/ar_site#112_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#112_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.7651526500000000 35.6806253500013600))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#22> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#22> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#22_geom> .
+<http://atlantgis.squirrel.link/ar_site#22_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#22_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9397633700000000 35.7133313200013600))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#63> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#63> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#63_geom> .
+<http://atlantgis.squirrel.link/ar_site#63_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#63_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1456173900000000 35.4394335500012600))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#16> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#16> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#16_geom> .
+<http://atlantgis.squirrel.link/ar_site#16_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#16_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8225738200000000 35.5424298400013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#61> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#61> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#61_geom> .
+<http://atlantgis.squirrel.link/ar_site#61_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#61_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9862537200000000 35.5353661000013100))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#10> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#10> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#10_geom> .
+<http://atlantgis.squirrel.link/ar_site#10_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#10_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.8213515900000000 35.6375342300013360))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#111> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#111> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#111_geom> .
+<http://atlantgis.squirrel.link/ar_site#111_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#111_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.2738818300000000 35.6758480200013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#2> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#2> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#2_geom> .
+<http://atlantgis.squirrel.link/ar_site#2_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#2_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0324606600000000 35.4273998700012900))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#25> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#25> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#25_geom> .
+<http://atlantgis.squirrel.link/ar_site#25_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#25_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1216410600000000 35.4236134700012850))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#32> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#32> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#32_geom> .
+<http://atlantgis.squirrel.link/ar_site#32_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#32_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1402295900000000 35.6844434600013540))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#18> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#18> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#18_geom> .
+<http://atlantgis.squirrel.link/ar_site#18_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#18_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4259534200000100 35.6498598200013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#104> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#5> .
+<http://atlantgis.squirrel.link/ar_site#104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#104> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#104_geom> .
+<http://atlantgis.squirrel.link/ar_site#104_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#104_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0315912100000000 35.6726110000013460))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#66> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#66> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#66_geom> .
+<http://atlantgis.squirrel.link/ar_site#66_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#66_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.1677552900000000 35.6729557400013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#116> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#116> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#116_geom> .
+<http://atlantgis.squirrel.link/ar_site#116_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#116_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0515117700000000 35.4360703000012760))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#103> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#103> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#103_geom> .
+<http://atlantgis.squirrel.link/ar_site#103_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#103_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.6164809300000230 35.7235766300013700))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#50> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#50> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#50_geom> .
+<http://atlantgis.squirrel.link/ar_site#50_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#50_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4213530100000110 35.5771701600013300))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#68> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#25> .
+<http://atlantgis.squirrel.link/ar_site#68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#68> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#68_geom> .
+<http://atlantgis.squirrel.link/ar_site#68_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#68_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4630983500000000 35.4099344000012700))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#79> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#13> .
+<http://atlantgis.squirrel.link/ar_site#79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#79> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#79_geom> .
+<http://atlantgis.squirrel.link/ar_site#79_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#79_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-14.9593387300000000 35.6349366200013260))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#19> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#10> .
+<http://atlantgis.squirrel.link/ar_site#19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#19> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#19_geom> .
+<http://atlantgis.squirrel.link/ar_site#19_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#19_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.0482951300000000 35.6412875900013400))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .
+<http://atlantgis.squirrel.link/ar_site#24> <http://atlantgis.squirrel.link/ontology#timeperiod> <http://atlantgis.squirrel.link/period#17> .
+<http://atlantgis.squirrel.link/ar_site#24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://atlantgis.squirrel.link/ontology#ArchaeologicalSite> .
+<http://atlantgis.squirrel.link/ar_site#24> <http://www.opengis.net/ont/geosparql#hasGeometry> <http://atlantgis.squirrel.link/ar_site#24_geom> .
+<http://atlantgis.squirrel.link/ar_site#24_geom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/ont/geosparql#Geometry> .
+<http://atlantgis.squirrel.link/ar_site#24_geom> <http://www.opengis.net/ont/geosparql#asWKT> "MULTIPOINT ((-15.4596271500000100 35.4415014700012850))"^^<http://www.opengis.net/ont/geosparql#wktLiteral> .

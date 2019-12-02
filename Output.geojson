@@ -1,0 +1,1941 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.47676432000001, 
+            35.54087878000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#122", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.545424360000016, 
+            35.700147400001356
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#1", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.57623383000002, 
+            35.53571134000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#41", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.502203480000015, 
+            35.53537473000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#13", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.482592160000012, 
+            35.49827913000129
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#58", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.461231980000012, 
+            35.49796464000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#23", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.38942272, 
+            35.49988061000129
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#54", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.36543877, 
+            35.5177490100013
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#71", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.23730319, 
+            35.581087130001315
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#45", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.46407082, 
+            35.718903820001366
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#48", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.707900410000038, 
+            35.60280312000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#87", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.93149757, 
+            35.64042270000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#5", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.427401610000011, 
+            35.513178550001314
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#89", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.23175733, 
+            35.48847611000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#106", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.38259462, 
+            35.52536736000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#15", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.561501900000014, 
+            35.60041925000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#73", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.557001680000015, 
+            35.63846664000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#114", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.0150332, 
+            35.532937810001314
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#120", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.13669899, 
+            35.56913451000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#119", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.79709164, 
+            35.5018272200013
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#101", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.69851727, 
+            35.607073770001335
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#67", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.29111872, 
+            35.411309220001264
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#95", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.96520037, 
+            35.492180660001296
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#75", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.26722395, 
+            35.412651070001274
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#55", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.65658722, 
+            35.64968519000135
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#118", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.3233568, 
+            35.474481200001286
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#44", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.99619562, 
+            35.4491778400013
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#29", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.584752380000017, 
+            35.67961400000136
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#52", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.434153580000011, 
+            35.68055036000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#30", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.30482593, 
+            35.50372196000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#17", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.2432757, 
+            35.538394870001305
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#56", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.469848780000014, 
+            35.65511114000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#97", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.56290378, 
+            35.60286610000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#64", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.7687271, 
+            35.63749383000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#91", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.93258318, 
+            35.570864190001316
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#14", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.88331983, 
+            35.55182130000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#96", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.35398928, 
+            35.45780805000129
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#9", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.31772744, 
+            35.54970483000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#42", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.17978103, 
+            35.41948292000127
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#11", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.34673296, 
+            35.55794091000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#7", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.00488371, 
+            35.56927184000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#40", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.474959080000012, 
+            35.767988760001366
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#60", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.3218593, 
+            35.695966670001354
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#102", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.44441765, 
+            35.57348780000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#12", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.91676718, 
+            35.54382405000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#35", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.478507930000013, 
+            35.729125130001364
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#72", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.4464822, 
+            35.52341027000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#62", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.543320800000016, 
+            35.57054047000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#27", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.06038018, 
+            35.487391510001295
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#85", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.16211669, 
+            35.428751990001274
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#109", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.84061753, 
+            35.626338250001346
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#82", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.36838798, 
+            35.72484234000136
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#31", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.8113702, 
+            35.620306900001324
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#86", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.30493102, 
+            35.53807026000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#83", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.96919878, 
+            35.54327066000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#105", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.87585739, 
+            35.69466365000136
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#98", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.457381930000011, 
+            35.426753630001286
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#28", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.01957792, 
+            35.4469567800013
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#78", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.75570305, 
+            35.52432301000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#43", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.31194845, 
+            35.37195785000128
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#4", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.03046419, 
+            35.39658696000128
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#46", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.19060406, 
+            35.548449770001305
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#99", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.44827195, 
+            35.677533000001354
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#92", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.683840170000032, 
+            35.60076615000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#39", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.87770074, 
+            35.47264283000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#59", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.510755410000012, 
+            35.4920730300013
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#108", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.77282966, 
+            35.68325376000136
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#84", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.23110981, 
+            35.516770320001314
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#37", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.22962279, 
+            35.62673289000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#34", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.36008972, 
+            35.5443309200013
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#117", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.43448115, 
+            35.59983760000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#47", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.28576517, 
+            35.541583440001304
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#36", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.32368556, 
+            35.583414150001325
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#8", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.26464795, 
+            35.58615994000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#38", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.86234951, 
+            35.48358960000128
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#65", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.06321764, 
+            35.641872600001335
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#110", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.74625766, 
+            35.65920963000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#51", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.481031050000015, 
+            35.58723101000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#53", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.45831927, 
+            35.45314180000128
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#74", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.35878825, 
+            35.63359812000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#113", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.84689321, 
+            35.64945407000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#107", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.05676158, 
+            35.462007720001296
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#100", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.23342826, 
+            35.39183525000127
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#70", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.527174850000018, 
+            35.77464088000138
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#121", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#1", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.47101459, 
+            35.623460300001334
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#57", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.43086183000001, 
+            35.4470777800013
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#81", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.05938593, 
+            35.54132280000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#90", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.517250430000013, 
+            35.68296339000135
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#80", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.20084267, 
+            35.59471620000132
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#49", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.566319140000019, 
+            35.680716360001355
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#20", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.521054620000012, 
+            35.68754781000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#33", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.46531370000001, 
+            35.48899340000129
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#21", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.89119884, 
+            35.66827411000135
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#69", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.38220645, 
+            35.74270919000137
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#93", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.25461635, 
+            35.63063044000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#94", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.454338030000011, 
+            35.69185875000135
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#77", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.07081044, 
+            35.46238074000129
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#3", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.05818363, 
+            35.56898029000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#115", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.98575476, 
+            35.659423600001354
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#76", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.33558901, 
+            35.722220530001366
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#6", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.68348511, 
+            35.55507806000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#88", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.76515265, 
+            35.68062535000136
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#112", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.93976337, 
+            35.71333132000136
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#22", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.14561739, 
+            35.43943355000126
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#63", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.82257382, 
+            35.54242984000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#16", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.98625372, 
+            35.53536610000131
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#61", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.82135159, 
+            35.637534230001336
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#10", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.27388183, 
+            35.67584802000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#111", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.03246066, 
+            35.42739987000129
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#2", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.12164106, 
+            35.423613470001285
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#25", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.14022959, 
+            35.684443460001354
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#32", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.42595342000001, 
+            35.64985982000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#18", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.03159121, 
+            35.672611000001346
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#104", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#5", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.16775529, 
+            35.67295574000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#66", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.05151177, 
+            35.436070300001276
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#116", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.616480930000023, 
+            35.72357663000137
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#103", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.421353010000011, 
+            35.57717016000133
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#50", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.46309835, 
+            35.40993440000127
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#68", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#25", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -14.95933873, 
+            35.634936620001326
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#79", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#13", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.04829513, 
+            35.64128759000134
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#19", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#10", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "MultiPoint", 
+        "coordinates": [
+          [
+            -15.45962715000001, 
+            35.441501470001285
+          ]
+        ]
+      }, 
+      "id": "http://atlantgis.squirrel.link/ar_site#24", 
+      "properties": {
+        "http://atlantgis.squirrel.link/ontology#timeperiod": "http://atlantgis.squirrel.link/period#17", 
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#type": "http://atlantgis.squirrel.link/ontology#ArchaeologicalSite"
+      }
+    }
+  ]
+}
